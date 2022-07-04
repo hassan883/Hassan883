@@ -48,7 +48,7 @@
   </tr>
   <tr>
       <td align='center'>
-          <img src="https://miro.medium.com/max/700/1*8ETcaw-gA1dYW4EFxqGK3w.png">
+          <img src="https://iconape.com/wp-content/files/ep/370863/svg/370863.svg">
       </td>
         <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
