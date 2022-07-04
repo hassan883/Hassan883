@@ -37,7 +37,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
       <td align='center'>
-          <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png">
+          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m-sJ6dKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pucav4cthc2glscsugs0.jpg">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
