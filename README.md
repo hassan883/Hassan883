@@ -2,7 +2,7 @@
 
 ### I'm a Developer & Researcher!
 
-* 👨‍💻 Working and Advancing in Software Engineer.
+* 👨‍💻 Working and Advancing in Software Engineer and developer.
 * 🌱 Full stack developer.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
