@@ -4,7 +4,7 @@
 
 * 👨‍💻 Working and Advancing in Software Engineer.
 * 🌱 Full stack developer.
-* 👯 Looking to colaborate with other content creators and developers.
+* 👯 Looking to colaborate with other content creators and developers to boost the skills to the next level.
 * 📢 Love to teach and inspire.
 * 🔭 Learning MERN.
 
