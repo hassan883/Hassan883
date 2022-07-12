@@ -75,7 +75,7 @@
           <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
       </td>
         <td align='center'>
-          <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+          <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png">
       </td>
       <td align='center'>
           <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
