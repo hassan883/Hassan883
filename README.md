@@ -66,7 +66,7 @@
   </tr>
   <tr>
       <td align='center'>
-          <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png">
+          <img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png">
       </td>
         <td align='center'>
           <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
