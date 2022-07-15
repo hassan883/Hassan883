@@ -7,7 +7,7 @@
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🔭 Learning MERN.
-* 🔭 Love to learn new things.
+
 
 # ⚙️ GitHub Analytics
 
