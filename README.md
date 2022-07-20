@@ -6,7 +6,7 @@
 * 🌱 Full stack developer.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning MERN.
+* 🔭 Learning MERN and gain to more experties.
 
 
 # ⚙️ GitHub Analytics
