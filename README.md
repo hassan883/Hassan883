@@ -1,12 +1,12 @@
 # Hi there, I'm Hassan 👋
 
-### I'm a Developer & Researcher!
+### I'm a Full-Stack Software Engineer & Researcher!
 
 * 👨‍💻 Working and Advancing in Software Engineer.
 * 🌱 Full stack developer.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning MERN.
+* 🔭 Learning MERN to gain some Expereince.
 
 
 # ⚙️ GitHub Analytics
