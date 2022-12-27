@@ -6,7 +6,7 @@
 * 🌱 Data Science.
 * 👯 Looking to colaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning Data Science and gain experience.
+* 🔭 Learning Data Science.
 
 
 # ⚙️ GitHub Analytics
