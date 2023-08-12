@@ -43,7 +43,7 @@
           <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m-sJ6dKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pucav4cthc2glscsugs0.jpg">
       </td>
       <td align='center' width="190">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+          <img src="[https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg](https://camo.githubusercontent.com/51f3745d9afdae550ab11a623452def18da7487a6998837b56845783a24d2012/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3334362d333436303434335f6d616368696e652d6c6561726e696e672d636f757273652d6e6561722d6d652d6d616368696e652d6c6561726e696e672d6c6f676f2e706e67)" width="60">
       </td>
        <td align='center' width="190">
           <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
