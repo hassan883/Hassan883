@@ -1,10 +1,11 @@
 # Hi there, I'm Hassan 👋
 
-### I'm a Data Scientist & Researcher!
+### I'm an Artificial Intelligence & Researcher!
 
-* 👨‍💻 Working and Advancing in Data science.
+* 👨‍💻 Computer Vision Machine Learning Engineer.
 * 🌱 Data Science.
-* 👯 Looking to colaborate with other content creators and developers.
+* 🤖 CNN Family, Machine Learning Family, and NN Family
+* 👯 Looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🔭 Learning Data Science.
 
