@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋
 
-### I'm an Artificial Intelligence & Researcher!
+### I'm an Artificial Intelligence Specialist & Researcher!
 
 * 👨‍💻 Computer Vision Machine Learning Engineer.
 * 🌱 Data Science.
