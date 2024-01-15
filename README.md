@@ -1,10 +1,11 @@
 # Hi there, I'm Hassan 👋
 
-### I'm an Artificial Intelligence Specialist & Researcher!
+### I'm an Artificial Intelligence Research Executive @ PanaceaLogics!
 
 * 👨‍💻 Computer Vision Machine Learning Engineer.
 * 🌱 Data Science.
 * 🤖 CNN Family, Machine Learning Family, and NN Family
+* 🤖 LLMs: LayoutLMv2, LayoutLMv3, LiLT, LAMA2, Transformers, BERT GPT-2 and, GPT-3.5.
 * 👯 Looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
 * 🔭 Learning Data Science.
