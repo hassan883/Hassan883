@@ -41,7 +41,7 @@
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
       <td align='center'>
-          <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m-sJ6dKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pucav4cthc2glscsugs0.jpg">
+          <img src="https://www.pngitem.com/pimgs/m/32-324790_keras-python-hd-png-download.png">
       </td>
       <td align='center' width="190">
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
