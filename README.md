@@ -44,7 +44,7 @@
           <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m-sJ6dKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pucav4cthc2glscsugs0.jpg">
       </td>
       <td align='center' width="190">
-          <img src="https://icon-icons.com/icon/pytorch-logo/169823" width="60">
+          <img src="https://seeklogo.com/vector-logo/341270/pytorch" width="60">
       </td>
        <td align='center' width="190">
           <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
