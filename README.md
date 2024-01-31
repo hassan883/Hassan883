@@ -64,7 +64,7 @@
   </tr>
   <tr>
       <td align='center'>
-          <img src="https://miro.medium.com/max/312/1*SRL22ADht1NU4LXUeU4YVg.png">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png">
       </td>
         <td align='center'>
           <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
