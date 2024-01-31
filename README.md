@@ -44,7 +44,7 @@
           <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m-sJ6dKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pucav4cthc2glscsugs0.jpg">
       </td>
       <td align='center' width="190">
-          <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60">
+          <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg" width="60">
       </td>
        <td align='center' width="190">
           <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
