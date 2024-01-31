@@ -44,7 +44,7 @@
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
       </td>
        <td align='center' width="190">
-          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png">
+          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png", width="60">
       </td>
   </tr>
   <tr>
