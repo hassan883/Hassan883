@@ -87,7 +87,7 @@
           <img src="https://kaskade.cloud/wp-content/uploads/2020/08/aws-logo.png">
       </td>
       <td align='center'>
-          <img src="https://editor.analyticsvidhya.com/uploads/94839seaborn.PNG" >
+          <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" >
       </td>
   </tr>
 </table>
