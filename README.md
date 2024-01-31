@@ -52,7 +52,7 @@
   </tr>
   <tr>
       <td align='center'>
-          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png">
+          <img src="https://i.pinimg.com/originals/f0/db/f5/f0dbf54f437965521e9aa5d6da2cf6c6.png">
       </td>
         <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
