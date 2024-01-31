@@ -40,16 +40,16 @@
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
       </td>
-       <td align='center' width="190">
-          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png">
+      <td align='center'>
+          <img src="https://i.pinimg.com/originals/f0/db/f5/f0dbf54f437965521e9aa5d6da2cf6c6.png">
       </td>
         <td align='center' width="190">
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
       </td>
   </tr>
   <tr>
-      <td align='center'>
-          <img src="https://i.pinimg.com/originals/f0/db/f5/f0dbf54f437965521e9aa5d6da2cf6c6.png">
+      <td align='center' width="190">
+          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png">
       </td>
         <td align='center'>
           <img src="https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png" >
