@@ -59,7 +59,7 @@
           <img src="https://www.pngitem.com/pimgs/m/32-324790_keras-python-hd-png-download.png">
       </td>
         <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="60">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
       </td>
   </tr>
   <tr>
