@@ -47,7 +47,7 @@
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg" width="150">
       </td>
        <td align='center' width="190">
-          <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+          <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png" width="100">
       </td>
   </tr>
   <tr>
