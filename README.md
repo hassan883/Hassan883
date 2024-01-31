@@ -70,7 +70,7 @@
           <img src="https://miro.medium.com/v2/resize:fit:860/1*Zg5iaVHIYyrS6oBmBRFmSw.png" >
         </td>
         <td align='center'>
-          <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png">
+          <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png">
       </td>
       <td align='center'>
           <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
