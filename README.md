@@ -76,6 +76,20 @@
           <img src="https://editor.analyticsvidhya.com/uploads/94839seaborn.PNG" >
       </td>
   </tr>
+   <tr>
+      <td align='center'>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png">
+      </td>
+        <td align='center'>
+          <img src="https://miro.medium.com/v2/resize:fit:860/1*Zg5iaVHIYyrS6oBmBRFmSw.png" >
+        </td>
+        <td align='center'>
+          <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png">
+      </td>
+      <td align='center'>
+          <img src="https://editor.analyticsvidhya.com/uploads/94839seaborn.PNG" >
+      </td>
+  </tr>
 </table>
 
 # 🤝🏻 Connect with Me
