@@ -78,7 +78,7 @@
   </tr>
    <tr>
       <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png">
+          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
       </td>
         <td align='center'>
           <img src="https://miro.medium.com/v2/resize:fit:860/1*Zg5iaVHIYyrS6oBmBRFmSw.png" >
