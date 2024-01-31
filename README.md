@@ -56,7 +56,7 @@
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
       </td>
         <td align='center'>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png">
+          <img src="https://www.pngitem.com/pimgs/m/32-324790_keras-python-hd-png-download.png">
       </td>
         <td align='center'>
           <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
