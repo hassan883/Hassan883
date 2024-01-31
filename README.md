@@ -39,7 +39,7 @@
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-      </td
+      </td>
        <td align='center' width="190">
           <img src="https://miro.medium.com/v2/resize:fit:1200/1*HMCIHPssGii0Zk1CfLTrVA.png">
       </td>
