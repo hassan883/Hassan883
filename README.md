@@ -73,7 +73,7 @@
           <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png">
       </td>
       <td align='center'>
-          <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
+          <img src="https://editor.analyticsvidhya.com/uploads/94839seaborn.PNG" >
       </td>
   </tr>
 </table>
