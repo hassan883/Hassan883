@@ -55,7 +55,7 @@
           <img src="https://i.pinimg.com/originals/f0/db/f5/f0dbf54f437965521e9aa5d6da2cf6c6.png">
       </td>
         <td align='center'>
-          <img src="https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png" height="40" width="60">
+          <img src="https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png" >
       </td>
       <td align='center'>
           <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
