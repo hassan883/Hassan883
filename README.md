@@ -84,7 +84,7 @@
           <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" >
         </td>
         <td align='center'>
-          <img src="https://kaskade.cloud/wp-content/uploads/2020/08/aws-logo.png">
+          <img src="https://miro.medium.com/v2/resize:fit:600/1*W02WEmR0_JeJXfLWN2zHwQ.png">
       </td>
       <td align='center'>
           <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" >
