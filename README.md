@@ -39,10 +39,7 @@
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-      </td>
-      <td align='center'>
-          <img src="https://www.pngitem.com/pimgs/m/32-324790_keras-python-hd-png-download.png">
-      </td>
+      </td
       <td align='center' width="190">
           <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4br4WmxNo0jkcsY796jGDQ.jpeg">
       </td>
@@ -57,9 +54,6 @@
         <td align='center'>
           <img src="https://www.wi6labs.com/wp-content/uploads/2019/12/Machine-learning-logo-1.png" >
       </td>
-      <td align='center'>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-      </td>
         <td align='center'>
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png">
       </td>
@@ -73,10 +67,7 @@
       </td>
         <td align='center'>
           <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-      </td>
-        <td align='center'>
-          <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-      </td>
+        </td>
         <td align='center'>
           <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png">
       </td>
