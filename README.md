@@ -35,7 +35,7 @@
 <table width="100">
   <tr>
       <td align='center' width="190">
-          <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60">
+          <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png">
       </td>
       <td align='center' width="190">
           <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
