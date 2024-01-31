@@ -67,7 +67,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png">
       </td>
         <td align='center'>
-          <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" >
         </td>
         <td align='center'>
           <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png">
