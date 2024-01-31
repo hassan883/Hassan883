@@ -81,7 +81,7 @@
           <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
       </td>
         <td align='center'>
-          <img src="https://miro.medium.com/v2/resize:fit:860/1*Zg5iaVHIYyrS6oBmBRFmSw.png" >
+          <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" >
         </td>
         <td align='center'>
           <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png">
