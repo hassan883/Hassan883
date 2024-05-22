@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan 👋
 
-### I'm an Artificial Intelligence Research Executive @ PanaceaLogics!
+### I'm an AI Developer at CENTAIC@PAF!
 
 * 👨‍💻 Computer Vision Machine Learning Engineer.
 * 🌱 Data Science.
