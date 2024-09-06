@@ -3,8 +3,9 @@
 ### I'm an AI Developer at CENTAIC@PAF!
 
 * 👨‍💻 Computer Vision Machine Learning Engineer.
-* 🌱 Data Science.
-* 🤖 CNN Family, Machine Learning Family, and NN Family
+* ⏳ Time Series, ForeCasting, Anomaly Prediction, and Time Series Data Analysis. 
+* 🌱 Data Science (pandas, numpy, scikitlearn, matplotlib, seaborn).
+* 🤖 CNN Family, Machine Learning Family, Vision Transformers, Swin Transformers, Object detection, image segmentation and advanced image processing technique.
 * 🤖 LLMs: LayoutLMv2, LayoutLMv3, LiLT, LAMA2, Transformers, BERT GPT-2 and, GPT-3.5.
 * 👯 Looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
