@@ -9,7 +9,7 @@
 * 🤖 LLMs: LayoutLMv2, LayoutLMv3, LiLT, LAMA2, Transformers, BERT GPT-2 and, GPT-3.5.
 * 👯 Looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning Data Science.
+* 🔭 Learning Data Science .
 
 
 # ⚙️ GitHub Analytics
