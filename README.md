@@ -1,4 +1,4 @@
-# Hi there, I'm Hassan 👋
+# Hi there, I'm Hassan LLM Engineer and Researcher👋
 
 ### I'm an AI Developer at CENTAIC@PAF!
 
