@@ -2,14 +2,14 @@
 
 ### I'm an AI Developer at CENTAIC@PAF!
 
-* 🤖 LLMs:Llama 2, 3, 3.2-3b, 3.1-7B, 13B and 70B, and then fine-tune the LLMs on the custom dataset using the LORA and QLORA technique, Multimodals like: LayoutLMv2, LayoutLMv3, LiLT, LAMA3.2 vision model, Transformers, Groq, BERT GPT-2 and, GPT-3.5.
+* 🤖 LLMs: Llama 2, 3, 3.2-3b, 3.1-7B, 13B and 70B, and then fine-tune the LLMs on the custom dataset using the LORA and QLORA technique, Multimodal like: LayoutLMv2, LayoutLMv3, LiLT, LAMA3.2 vision model, Transformers, Groq, BERT GPT-2 and, GPT-3.5.
 * 👨‍💻 Computer Vision Machine Learning Engineer.
-* 🤖 CNN Family, Machine Learning Family, Vision Transformers, Swin Transformers, Object detection, image segmentation and advanced image processing technique.
-* ⏳ Time Series, ForeCasting, Anomaly Prediction, and Time Series Data Analysis. 
+* 🤖 CNN Family, Machine Learning Family, Vision Transformers, Swin Transformers, Object detection, image segmentation, and advanced image processing technique.
+* ⏳ Time Series, Forecasting, Anomaly Prediction, and Time Series Data Analysis. 
 * 🌱 Data Science (pandas, numpy, scikitlearn, matplotlib, seaborn).
 * 👯 Looking to collaborate with other content creators and developers.
 * 📢 Love to teach and inspire.
-* 🔭 Learning Data Science .
+* 🔭 Learning Data Science.
 
 
 # ⚙️ GitHub Analytics
