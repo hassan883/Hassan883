@@ -8,7 +8,7 @@
 * ⏳ Time Series, Forecasting, Anomaly Prediction, and Time Series Data Analysis. 
 * 🌱 Data Science (pandas, numpy, scikitlearn, matplotlib, seaborn).
 * 👯 Looking to collaborate with other content creators and developers.
-* 📢 Love to teach and inspire.
+* 📢 Love to teach and inspire .
 * 🔭 Learning Data Science.
 
 
