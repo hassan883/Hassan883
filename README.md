@@ -141,8 +141,3 @@ Passionate AI engineer specializing in Large Language Models, Computer Vision, a
   <img src="https://img.shields.io/github/followers/hassan883?label=Followers&style=social" alt="GitHub followers"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hassan883/hassan883/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
