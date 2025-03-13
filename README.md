@@ -122,7 +122,7 @@ Passionate AI engineer specializing in Large Language Models, Computer Vision, a
       <br>Groq
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/openai/openai-python/main/logo.png" width="48" height="48" alt="OpenAI" />
+      <img src="https://raw.githubusercontent.com/openai/openai-python/main/logo.png](https://freepnglogo.com/images/all_img/1702059309openai-logo-png.png" width="48" height="48" alt="OpenAI" />
       <br>OpenAI
     </td>
   </tr>
