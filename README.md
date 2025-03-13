@@ -118,7 +118,7 @@ Passionate AI engineer specializing in Large Language Models, Computer Vision, a
       <br>SvelteKit
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groq/groq-original.svg" width="60" height="60" alt="Groq" />
+      <img src="https://logowik.com/content/uploads/images/gradio-app7465.logowik.com.webp" width="60" height="60" alt="Groq" />
       <br>Groq
     </td>
     <td align="center" width="96">
