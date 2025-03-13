@@ -85,7 +85,7 @@ Passionate AI engineer specializing in Large Language Models, Computer Vision, a
     </td>
     <td align="center" width="96">
       <img src="https://miro.medium.com/v2/resize:fit:600/1*W02WEmR0_JeJXfLWN2zHwQ.png" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="48" height="48" alt="Flask" />
@@ -122,7 +122,7 @@ Passionate AI engineer specializing in Large Language Models, Computer Vision, a
       <br>Groq
     </td>
     <td align="center" width="96">
-      <img src="https://freepnglogo.com/images/all_img/1702059309openai-logo-png.png" width="48" height="48" alt="OpenAI" />
+      <img src="https://logodix.com/logo/2209637.png" width="48" height="48" alt="OpenAI" />
       <br>OpenAI
     </td>
   </tr>
