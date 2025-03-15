@@ -18,6 +18,10 @@ I am a passionate AI Developer and Researcher specializing in Large Language Mod
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan883&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## ⚡ Skills 
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,javascript,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,darts,sktime,reactjs,aws,azure,docker,kubernetes,linux,git,postgres" /> </p>
+
+
 ## 🚀 Expertise
 
 <table>
