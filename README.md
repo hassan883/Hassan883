@@ -20,7 +20,7 @@ I am a passionate AI Developer and Researcher specializing in Large Language Mod
 
 ## ⚡ Skills 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,react,flask,aws,azure,docker,kubernetes,linux,git,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,react,flask,fastapi,aws,azure,docker,kubernetes,linux,git,postgres" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
