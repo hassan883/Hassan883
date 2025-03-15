@@ -19,7 +19,23 @@ I am a passionate AI Developer and Researcher specializing in Large Language Mod
 </div>
 
 ## ⚡ Skills 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,r,javascript,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,darts,sktime,reactjs,aws,azure,docker,kubernetes,linux,git,postgres" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,react,flask,aws,azure,docker,kubernetes,linux,git,postgres" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%238FB3FF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-%232AB673.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+</p>
 
 
 ## 🚀 Expertise
