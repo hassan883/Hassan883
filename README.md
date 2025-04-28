@@ -8,6 +8,7 @@
 ## 👨‍💻 About Me
 
 I am a passionate AI Developer and Researcher specializing in Large Language Models, Computer Vision, and Time Series Analysis. Currently working as an AI Developer at CENTAIC@PAF, where I develop and fine-tune state-of-the-art AI models for various applications.
+[![committers.top badge](https://user-badge.committers.top/pakistan/hassan883.svg)](https://committers.top/pakistan/hassan883)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassan883&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
