@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=445&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=Developer+|+Researcher;+Computer+Vision+Expert+|+Gen+AI+|+LLM+Engineer;AI+Researcher;Data+Scientist" alt="Typing SVG" />
   <br/>
-  <img src="https://img.shields.io/badge/AI_Developer-CENTAIC@PAF-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
+  <img src="https://img.shields.io/badge/AI_Developer-@NASTP-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
 </div>
 
 ## 👨‍💻 About Me
