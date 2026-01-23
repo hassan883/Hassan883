@@ -13,17 +13,7 @@ AI Developer and Researcher with **4+ years** of experience in deep learning, LL
 ```yaml
 name: Hassan Javed
 role: AI Developer & Researcher
-experience: 4+ Years
 location: Pakistan
-
-current_positions:
-  - company: Ink AI (Delaware, USA)
-    role: AI Researcher
-    focus: Digital Ink Recognition, Handwriting Synthesis, Diffusion Models
-
-  - company: CENTAIC - NASTP (Pakistan)
-    role: AI Developer (Research Officer)
-    focus: Distributed LLM Inference, RAG Systems, Defense AI
 
 expertise:
   - Large Language Models (LLaMA, GPT, Qwen, DeepSeek)
@@ -31,10 +21,6 @@ expertise:
   - Multimodal AI Systems
   - Time Series Analysis & Anomaly Detection
   - MLOps & Production Deployment
-
-education:
-  - MS Data Science - FAST NUCES (CGPA: 3.17)
-  - BS Computer Science - University of Kotli (CGPA: 3.86)
 ```
 
 <br/>
