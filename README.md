@@ -107,7 +107,7 @@ expertise:
 
 ## Publication
 
-**Enhanced Plant Species Identification using Metadata Fusion and Vision Transformers** (2025)
+**[Enhanced Plant Species Identification using Metadata Fusion and Vision Transformers](https://www.techscience.com/cmc/v85n2/63782)** (2025)
 - Achieved **97.27%** classification accuracy using ViT models with metadata fusion
 - Published in CMC: Computers, Materials & Continua Journal (TechScience)
 
