@@ -1,4 +1,4 @@
-<h1 align="center">Hassan Javed</h1>
+<h1 align="center">Hello I'm Hassan Javed</h1>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=AI+Developer+%26+Researcher;4%2B+Years+in+Deep+Learning+%26+LLMs;NLP+%7C+Computer+Vision+%7C+MLOps;Published+Researcher" alt="Typing SVG" />
