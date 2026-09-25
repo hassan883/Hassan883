@@ -17,8 +17,8 @@
 
 AI Researcher and Applied AI Engineer with **5 years** of experience building and deploying machine learning systems in production. I work on large language models, RAG systems, computer vision, and handwriting AI.
 
-- AI Researcher | Applied AI Engineer at **Ink AI** (US-based startup, remote)
-- AI Developer at **CENTAIC** (National AI Lab, NASTP)
+- AI Researcher | Applied AI Engineer at **Ink AI**.
+- AI Developer at **NASTP**.
 - MS Data Science, **FAST-NUCES**
 - Published research on **Vision Transformers**
 
