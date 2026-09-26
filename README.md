@@ -2,7 +2,7 @@
 
 # Hi, I'm Hassan Javed 👋
 
-**LLMs, RAG & Handwriting AI | AI Researcher @ Ink AI · AI Developer @ NASTP**
+**LLMs, RAG & Handwriting AI | AI Researcher @ Ink AI · AI Developer @ NASTP **
 
 <a href="https://hassan-javed.com"><img src="https://img.shields.io/badge/Website-6C63FF?style=flat-square&logo=safari&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hassanjaved4"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white" /></a>
